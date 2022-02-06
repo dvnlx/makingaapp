@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To iDev!
+        Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="https://www.youtube.com/channel/UCwYJtY18T2n7fysL7qJeB2g"
+          href="reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
